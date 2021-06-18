@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @tilastech
+- 📫 You can find me at https://www.youtube.com/channel/UC7xQkF7kX2rCz672OVwcCYw
+- 📄 This GitHub page is for TilasTech channel projects
